@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Wall
+  - Object
   layers:
   - Default
   - TransparentFX
@@ -44,12 +47,39 @@ TagManager:
   - name: Ground
     uniqueID: 1622285797
     locked: 0
-  - name: Walls
-    uniqueID: 3544231721
+  - name: OverGround
+    uniqueID: 1495133647
     locked: 0
   - name: Shadows
     uniqueID: 2142687701
     locked: 0
+  - name: Walls
+    uniqueID: 3544231721
+    locked: 0
+  - name: GroundSolid
+    uniqueID: 1440292837
+    locked: 0
+  - name: Objects
+    uniqueID: 2813353953
+    locked: 0
+  - name: OvelaySolid
+    uniqueID: 443703701
+    locked: 0
   - name: Player
     uniqueID: 1205405369
+    locked: 0
+  - name: PickUpObjects
+    uniqueID: 2331577153
+    locked: 0
+  - name: Enemies
+    uniqueID: 487327407
+    locked: 0
+  - name: Bullets
+    uniqueID: 2483416611
+    locked: 0
+  - name: Overlay
+    uniqueID: 3296086887
+    locked: 0
+  - name: Bars
+    uniqueID: 1564536665
     locked: 0
