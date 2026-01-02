@@ -74,12 +74,12 @@ TagManager:
   - name: Enemies
     uniqueID: 487327407
     locked: 0
-  - name: Bullets
-    uniqueID: 2483416611
-    locked: 0
   - name: Overlay
     uniqueID: 3296086887
     locked: 0
   - name: Bars
     uniqueID: 1564536665
+    locked: 0
+  - name: Bullets
+    uniqueID: 2483416611
     locked: 0
